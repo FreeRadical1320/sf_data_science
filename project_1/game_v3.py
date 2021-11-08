@@ -6,7 +6,7 @@ The computer have to guess the number in minimum tryings
 import numpy as np
 
 
-def random_predict(number: int=1) -> int:
+def number_prediction(number: int=1) -> int:
     """Guess the number algorithm
     Args:
         number (int, optional): The hidden number. Defaults to 1.
@@ -30,7 +30,7 @@ def random_predict(number: int=1) -> int:
     return count
 
 
-def score_game(random_predict) -> int:
+def score_game(number_prediction) -> int:
     """Measuring the average number of attempts over 1000 approaches
     Args:
         random_predict ([type]): guess function
@@ -42,7 +42,7 @@ def score_game(random_predict) -> int:
     random_array = np.random.randint(1, 101, size=(1000))  # Generate the list of numbers
 
     for number in random_array:
-        count_ls.append(random_predict(number))
+        count_ls.append(number_prediction(number))
 
     score = int(np.mean(count_ls))
     print(f'Your algorithm guesses the number on average in: {score} tries')
@@ -51,4 +51,4 @@ def score_game(random_predict) -> int:
 
 if __name__ == "__main__":
     # RUN
-    score_game(random_predict)
+    score_game(number_prediction)
