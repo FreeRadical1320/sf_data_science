@@ -1,12 +1,12 @@
 # Project 1. Guess the number
 
 ## Table of contents  
-[1. Project description](.README.md#Project-description)  
-[2. What case are we solving?](.README.md#What-case-are-we-solving)  
-[3. Data Brief](.README.md#Data-Brief)  
-[4. Stages of work on a project](.README.md#Stages-of-work-on-a-project)  
-[5. Results](.README.md#Results)    
-[6. Conclusions](.README.md#Conclusions) 
+[1. Project description](README.md#Project-description)  
+[2. What case are we solving?](README.md#What-case-are-we-solving)  
+[3. Data Brief](README.md#Data-Brief)  
+[4. Stages of work on a project](README.md#Stages-of-work-on-a-project)  
+[5. Results](README.md#Results)    
+[6. Conclusions](README.md#Conclusions) 
 
 ### Project description    
 The program finds the number conceived by the computer in the minimum number of attempts.
@@ -41,7 +41,7 @@ This code does not work with dataset.
 3. Testing and improving desing of the soure code.
 4. Registration of the project at github according to the requirements.
 
-:arrow_up:[ to the table of contents](.README.md#Table-of-contents)
+:arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Results:  
@@ -49,7 +49,7 @@ The code showed a result that satisfies the conditions.
 The average number of attempts is 8, less than 20.
 The algorithm for shifting the boundaries of the number generation range has been applied.
 
-:arrow_up:[ to the table of contents](.README.md#Table-of-contents)
+:arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Conclusions:  
@@ -59,7 +59,7 @@ Got the basic skills:
 - design of project description files
 
 
-:arrow_up:[ to the table of contents](.README.md#Table-of-contents)
+:arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 If the information on this project seems interesting or useful to you, then I will be very grateful to you if you mark the repository and profile by stars ⭐️⭐️⭐️. 
