@@ -11,7 +11,7 @@
 ### Project description    
 The program finds the number conceived by the computer in the minimum number of attempts.
 
-:arrow_up:[ to the table of contents](.README.md##Table-of-contents)
+:arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### What case are we solving?    
@@ -32,7 +32,7 @@ Learning to write good python code.
 ### Data Brief
 This code does not work with dataset.
   
-:arrow_up:[ to the table of contents](.README.md#Table-of-contents)
+:arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Stages of work on a project  
