@@ -4,8 +4,7 @@ import numpy as np
 
 number = np.random.randint(1, 101) # Guess the number
 
-# Try counts
-count = 0
+count = 0 # Try counts
 
 while True:
     count += 1

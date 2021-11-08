@@ -14,19 +14,19 @@ def random_predict(number: int=1) -> int:
         int: Try counts
     """
     count = 0 # Try counts
-    range_low = 1 # Set the basic low range border
-    range_high= 101 # Set the basic high range border
+    lower_border = 1 # Set the basic lower range border
+    higher_border = 101 # Set the basic higher range border
 
     while True:
         count += 1
-        predict_number = np.random.randint(range_low, range_high)  # Estimated number
+        predict_number = np.random.randint(lower_border, higher_border)  # Estimated number
         
         if predict_number == number:
             break  # Game over. Quit the cycling
         elif predict_number > number: 
-            range_high = predict_number # Set new high range border
+            higher_border = predict_number # Set new high range border
         else:
-            range_low = predict_number # Set new low range border
+            lower_border = predict_number # Set new low range border
     return count
 
 
