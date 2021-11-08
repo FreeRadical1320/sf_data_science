@@ -1,20 +1,20 @@
-# Проект 0. Угадай число
+# Project 1. Guess the number
 
-## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+## Table of contents  
+[1. Project description](.README.md#Project-description)  
+[2. What case are we solving?](.README.md#What-case-are-we-solving)  
+[3. Data Brief](.README.md#Data-Brief)  
+[4. Stages of work on a project](.README.md#Stages-of-work-on-a-project)  
+[5. Results](.README.md#Results)    
+[6. Conclusions](.README.md#Conclusions) 
 
-### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+### Project description    
+The program finds the number conceived by the computer in the minimum number of attempts.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[to the table of contents](.README.md#Table-of-contents)
 
 
-### Какой кейс решаем?    
+### What case are we solving?    
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
 **Условия соревнования:**  
@@ -28,28 +28,28 @@
 Учимся писать хороший код на python
 
 
-### Краткая информация о данных
+### КData Brief
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to the table of contents](.README.md#Table-of-contents)
 
 
-### Этапы работы над проектом  
+### Stages of work on a project  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to the table of contents](.README.md#Table-of-contents)
 
 
-### Результаты:  
+### Results:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to the table of contents](.README.md#Table-of-contents)
 
 
-### Выводы:  
+### Conclusions:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[to the table of contents](.README.md#Table of contents)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами

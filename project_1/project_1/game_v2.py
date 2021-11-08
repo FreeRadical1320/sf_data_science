@@ -1,5 +1,5 @@
 """
-Game 'Guess number'
+Game 'Guess the number'
 The computer have to guess the number in minimum tryings
 """
 
