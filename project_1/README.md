@@ -11,7 +11,7 @@
 ### Project description    
 The program finds the number conceived by the computer in the minimum number of attempts.
 
-:arrow_up:[ to the table of contents](.README.md#Table-of-contents)
+:arrow_up:[ to the table of contents](.README.md##Table-of-contents)
 
 
 ### What case are we solving?    
