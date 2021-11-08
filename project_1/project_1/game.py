@@ -12,10 +12,10 @@ while True:
     predict_number = int(input('Guess the number from 1 to 100: '))
     
     if predict_number > number:
-        print('Your number is grater than need!')
+        print('Your number is grater then need!')
 
     elif predict_number < number:
-        print('Your number is smaller than need!')
+        print('Your number is less then need!')
     
     else:
         print(f'You win!!! The nuber is {number}. You had tried {count} times')
