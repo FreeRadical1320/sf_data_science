@@ -17,46 +17,33 @@ The project is dedicated to the analysis of data from resumes posted on the vaca
 ### What case are we solving?    
 Data structure research, data transformation and preprocessing, search for dependencies between features, data cleaning.
 
-**Competition conditions:**  
-- The computer thinks of an integer from 0 to 100, and we need to guess it. By "guess" it means "write a program that guesses a number."
-- The algorithm takes into account information about whether the random number is greater or less than what we need.
-- Write your own function that guesses in less than 20 tries.
-
-**Quality metric**     
-Results are measured by the average number of attempts at 1000 repetitions.
-
-**What we practice**     
-Learning to write good python code.
-
-
 ### Data Brief
-This code does not work with dataset.
+Dataset contains basic information from more than 44 thousand resumes: city of residence, age, work experience and other data.
+Total 12 columns for 44744 rows.
   
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Stages of work on a project  
-1. Learning the 'PYTHON-8. Tools for Data Science' module at SkillFactory platform.
-2. Development of a program for the final task.
-3. Testing and improving desing of the soure code.
-4. Registration of the project at github according to the requirements.
+1. Formulation of the problem.
+2. Data structure research.
+3. Data transformation.
+4. Data dependency researchs (EDA).
+5. Data cleaning.
+6. Results and conclusions.
 
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Results:  
-The code showed a result that satisfies the conditions.
-The average number of attempts is 8, less than 20.
-The algorithm for shifting the boundaries of the number generation range has been applied.
+The dataset has been cleared of anomalous values, new informative features have been created, and unnecessary ones have been removed. 
+The gaps are filled with suitable values. The main dependencies between features are built for visual analysis of relationships.
 
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
 
 ### Conclusions:  
-Got the basic skills:
-- working with IDE VScode
-- synchronize project repository on github.com
-- design of project description files
+All the main stages of preparing and processing the dataset were carried out before building the models.
 
 
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
