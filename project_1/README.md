@@ -20,6 +20,8 @@ Data structure research, data transformation and preprocessing, search for depen
 ### Data Brief
 Dataset contains basic information from more than 44 thousand resumes: city of residence, age, work experience and other data.
 Total 12 columns for 44744 rows.
+See link below.
+https://drive.google.com/file/d/1McXVgazOQF9XizpcV_p6Xx1zR8ruT7Xm/view?usp=sharing
   
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
