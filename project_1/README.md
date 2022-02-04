@@ -10,6 +10,8 @@
 
 ### Project description    
 The project is dedicated to the analysis of data from resumes posted on the vacancy aggregator hh.ru.
+See the link below for the correct display of graphics.
+https://nbviewer.org/github/FreeRadical1320/sf_data_science/blob/main/project_1/Project_1%20Analysis%20of%20resume%27s%20dataset%20on%20hh.ru.ipynb
 
 :arrow_up:[ to the table of contents](README.md#Table-of-contents)
 
